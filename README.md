@@ -1,8 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-Adding a line for rebasing example
-Rebasing is great, it added changes done in master
+This line is for stashing example
 
 
 ## Purpose
