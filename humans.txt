@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sanket Holey - Solutions Architech - twitter/Sanket
 
 # THANKS
 
